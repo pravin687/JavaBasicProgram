@@ -3,7 +3,7 @@ package Collection.Scenarios;
 import java.util.HashSet;
 import java.util.TreeSet;
 
-public class HashSetandTreeset {
+public class HashSetandTreesetfile {
 
 	public static void main(String[] args) {
 		//Stores hetrogenous order.order is not mainatined

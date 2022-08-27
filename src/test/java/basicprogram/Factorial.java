@@ -10,6 +10,7 @@ public class Factorial {
 			fact=fact*i;
 		}
 		System.out.println("Test");
+		System.out.println("Test");
 		System.out.println(fact);
 		
 
